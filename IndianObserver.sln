@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndianObserver", "IndianObserver\IndianObserver.csproj", "{CF417C6D-FA94-47D7-AED3-9C66AA8B4457}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF417C6D-FA94-47D7-AED3-9C66AA8B4457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF417C6D-FA94-47D7-AED3-9C66AA8B4457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF417C6D-FA94-47D7-AED3-9C66AA8B4457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF417C6D-FA94-47D7-AED3-9C66AA8B4457}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {849A8489-0CAA-4A23-B8A9-7C822743753B}
+	EndGlobalSection
+EndGlobal
